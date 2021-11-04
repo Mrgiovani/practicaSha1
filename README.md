@@ -1,1 +1,1 @@
-# practicaSha1
+# Cifrar contraseñas con hash en formulario de HTML
